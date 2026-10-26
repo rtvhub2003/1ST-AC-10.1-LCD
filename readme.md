@@ -2,15 +2,13 @@
 ##### [LINUX LAPTOP IS REQUIRED]
 
 ## 1. Access System | LAPTOP [TERMINAL1]
-<br>
-cmd: `ssh rtv@192.168.1.121`
+<br> cmd: `ssh rtv@192.168.1.121`
 <br> passkey: `123`
 
 ## 2. Check, if already programmed or new system
 <br> cmd: `ls`
 
-<br>
-If, firstAc application is running, stop it
+<br> If, firstAc application is running, stop it
 <br> cmd: `sudo systemctl stop start_app_audio`
 
 ## 3. Go inside ac1 folder
