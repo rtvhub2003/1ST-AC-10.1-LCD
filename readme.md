@@ -3,7 +3,7 @@
 
 ## 1. Access System | LAPTOP [TERMINAL1]
 <br>
-cmd: `ssh rtv@192.168.1.121`
+cmd: ~ssh rtv@192.168.1.121~
 <br>
 passkey: `123`
 
