@@ -55,11 +55,11 @@ cmd: `scp -r fonts rtv@192.168.1.121:/usr/share/`
 passkey: `123`
 <br>
 
-<br> [It may take a few seconds/minutes to transfer all fonts. Please keep patience here!]
+<br> [ It may take a few seconds/minutes to transfer all fonts. Please keep patience here! ]
 
 ## 7. Check if fonts in system
 <br>
-cmd: ls
+cmd: `ls`
 <br>
 cmd: ls /usr/share/fonts/
 
